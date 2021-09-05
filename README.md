@@ -5,7 +5,7 @@
 It's also a jumping-off point for **paragliding, rafting and mountaineering** in the Pir Panjal mountains, home to 4,000m-high Rohtang Pass.Manali has witnessed a flurry of activity related to hydroelectric power and tourism.<br>Unplanned and rampant construction has led to severe depletion of forests and pollution of river bodies ,however there is a lot of flora and fauna to enjoy the scenic beauty.
 ---
 ## Directions from Maryville to Manali
-1. Take a taxi from Maryville to kansas City Airport
+1. Take a taxi from Maryville to kansas City Airport 
 2. Take a flight from kansas to Delhi which is located in India
 3. From delhi rent a car and the journey to the final destination begins and the route is detailed below
     1. Take Dr NS Hardikar Rd to NH9
@@ -29,4 +29,6 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
 * Clothing depending on the climate (mostly winter would be suitable)
     * Warm clothes
     * A good pair of boots 
+
+**[Link to About Me](AboutMe.md)**
 
