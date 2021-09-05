@@ -1,0 +1,3 @@
+# Nagamani Yalla
+>Interesting facts about me is that I love playing badminton and would love to improve my game further and play better,my inspiration is my mother as she herself is a national level player in the same sport and would love to win a match against her.Apart form this I love reading novels which are mostly fictional or crime zoner and I did my bachelors in Biotech and like to study/research further about getting the medical field better in some way.<br> I love to travel and learn languages and have leanrt around 6 languages.I have a work experinece of 5 years in IT field and am eager to learn more in the same.
+![Image in About Me](https://h2.commercev3.net/cdn.brecks.com/images/800/82102.jpg)
