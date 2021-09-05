@@ -42,7 +42,8 @@ The below is the table which would decribe my favorite dishes and the cost as we
 | Chole batura    | Rajasthan                   | 80 rupees     |
 ---
 >Winners dont do different things,they do things differently
->>*Shiv kera <br>
+>>*Shiv kera
+
 >All power is within you,you can do everything and anything just belive in it
 >>*Swami Vivekananda
 
