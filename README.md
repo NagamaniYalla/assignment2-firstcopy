@@ -31,4 +31,8 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
     * A good pair of boots 
 
 **[Link to About Me](AboutMe.md)**
+---
+| Food/Drink Item | Place where we can get them | Amount of money expected to pay |
+| ---                   |---                                    |---:               |
+| Samosa Chat     | Delhi                       | 40 ruppes     |
 
