@@ -32,7 +32,7 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
 
 **[Link to About Me](AboutMe.md)**
 ---
->The below is the table which would decribe my favorite dishes and the cost as well as the place where we can get them.
+The below is the table which would decribe my favorite dishes and the cost as well as the place where we can get them.
 
 | Food/Drink Item | Place where we can get them | Amount of money expected to pay |
 | ---                   |---                                    |---:               |
@@ -40,5 +40,10 @@ It's also a jumping-off point for **paragliding, rafting and mountaineering** in
 | Biryani         | Hyderabad                   | 180 rupees    |
 | Daal bhatti     | Bhopal                      | 120 rupees    |
 | Chole batura    | Rajasthan                   | 80 rupees     |
+---
+>Winners dont do different things,they do things differently
+*Shiv kera
+>All power is within you,you can do everything and anything just belive in it
+*Swami Vivekananda
 
 
