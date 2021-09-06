@@ -46,5 +46,17 @@ The below is the table which would decribe my favorite dishes and the cost as we
 
 >All power is within you,you can do everything and anything just belive in it
 >>*Swami Vivekananda
+---
+>Below is a small peice of code which would return the permutations of the input number and the link where this code has been taken is mentioned below.
 
-
+### Quick Link to the code:<https://sahandsaba.com/combinatorial-generation-for-coding-interviews-in-python.html>
+```
+def perms_1(A):
+    if not A:
+        return [[]]
+    perms = []
+    for pi in perms_1(A[1:]):
+        for i in range(len(A)):
+            perms.append(pi[:i] + [A[0]] + pi[i:])
+    return perms
+```
